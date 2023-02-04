@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **CarlosUlisesOchoa/CarlosUlisesOchoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there 👋 I'm Carlos
+  
+I'm a software engineer with 2 years of experience in web development. I have background in front-end and back-end development, as well as experience in database management.
+  
+I've previously worked with technologies like:
+* HTML
+* CSS
+* JavaScript
+* Vue
+* jQuery
+* Axios
+* Ajax
+* Bootstrap
+* Tailwind
+* Node
+* TypeScript
+* Babel
+* Webpack
+* PHP
+* Laravel
+* SQL
+* C#
+* VB.Net
+* PHP
+* Git
+
+  
+I’m currently currently working on improving my skills by learning React and other powerful web technologies.
+  
+I am eager to work on projects that will help me to grow professionally as a developer.
+  
+### 📫 Contact me:
+* Email: uligibson@hotmail.com
+* Phone: +52-452-150-8571
+* LinkedIn: [Clic here](https://www.linkedin.com/in/carlosulisesochoa)
+
+  
+  
+  
+
+
+
+
