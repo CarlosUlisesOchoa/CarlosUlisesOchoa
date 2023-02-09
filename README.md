@@ -47,7 +47,6 @@ I am eager to work on projects that will help me to grow professionally as a dev
   
 ### 📫 Contact me:
 * Email: uligibson@hotmail.com
-* Phone: +52-452-150-8571
 * LinkedIn: [Clic here](https://www.linkedin.com/in/carlosulisesochoa)
 
   
