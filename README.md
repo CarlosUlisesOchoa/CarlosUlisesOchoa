@@ -22,10 +22,7 @@ I've previously worked with technologies like:
 * HTML
 * CSS
 * JavaScript
-* Vue
 * jQuery
-* Axios
-* Ajax
 * Bootstrap
 * Tailwind
 * Node
@@ -35,8 +32,6 @@ I've previously worked with technologies like:
 * PHP
 * Laravel
 * SQL
-* C#
-* VB.Net
 * PHP
 * Git
 
