@@ -36,7 +36,7 @@ I've previously worked with technologies like:
 * Git
 
   
-I’m currently currently working on improving my skills by learning React and other powerful web technologies.
+I’m currently working on improving my skills with React and other powerful web technologies.
   
 I am eager to work on projects that will help me to grow professionally as a developer.
   
