@@ -16,32 +16,27 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Carlos
   
-I'm a software engineer with 2 years of experience in web development. I have background in front-end and back-end development, as well as experience in database management.
+I'm a software engineer with 2+ years of experience in web development. I have background in front-end and back-end development.
   
-I've previously worked with technologies like:
+I've worked with some technologies including:
 * HTML
 * CSS
 * JavaScript
 * jQuery
 * Bootstrap
 * Tailwind
-* Node
+* Node.js
 * TypeScript
-* Babel
-* Webpack
+* Vite
 * PHP
 * Laravel
 * SQL
 * PHP
 * Git
 
-  
-I’m currently working on improving my skills with React and other powerful web technologies.
-  
-I am eager to work on projects that will help me to grow professionally as a developer.
-  
+
 ### 📫 Contact me:
-* Email: uligibson@hotmail.com
+* Email: carlos8a.dev@gmail.com
 * LinkedIn: [Clic here](https://www.linkedin.com/in/carlosulisesochoa)
 
   
