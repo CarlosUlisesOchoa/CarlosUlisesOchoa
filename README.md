@@ -31,6 +31,8 @@ I've worked with some technologies including:
 * PHP
 * Laravel
 * SQL
+* C#
+* VB.Net
 * PHP
 * Git
 
