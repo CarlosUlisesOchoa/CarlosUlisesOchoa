@@ -21,7 +21,7 @@ I'm a software engineer with 2+ years of experience in web development. I have b
   
 I've worked with some technologies including:
 
-<p align="center">
+<div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=E8D44D"/>
@@ -47,14 +47,21 @@ I've worked with some technologies including:
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
-</p>
+</div>
+
+<br/>
 
 <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+  My Contribution Graph <img src="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/output/snake.png" width="50">
 </h2>
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p> 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/output/github-contribution-grid-snake.svg.svg" />
+  <img alt="github-snake" src="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/output/github-contribution-grid-snake.svg.svg"/>
+</picture>
+
+<br/>
 
 ### 🌐 Personal website:
 * [Carlos8a.com](https://carlos8a.com)
