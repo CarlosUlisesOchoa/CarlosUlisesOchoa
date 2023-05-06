@@ -1,4 +1,4 @@
-name: generate animation
+name: Generate snake animation github activity
 
 on:
   # run automatically every 24 hours
