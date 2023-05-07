@@ -39,7 +39,7 @@ I've worked with technologies such as:
     <img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/Laravel-D53E26?style=for-the-badge&logo=laravel&logoColor=white" />
     <img src="https://img.shields.io/badge/Wordpress-21759F?style=for-the-badge&logo=wordpress&logoColor=white"/>
-    <img src="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/output/images/java.jpg" height="28"/>
+    <img src="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/files/images/java.jpg" height="28"/>
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%23-611D76?style=for-the-badge&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -56,7 +56,7 @@ I've worked with technologies such as:
 <br/>
 
 <h2 align="center">
-  My contribution graph <img src="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/output/images/snake.png" width="30">
+  My contribution graph <img src="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/files/images/snake.png" width="30">
 </h2>
 
 <picture>
