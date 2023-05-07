@@ -16,13 +16,13 @@ Social media:
 -->
 
 <div align="center">
-  <h1>Hi there! 👋 I'm Carlos</h1>
+  <h1>Carlos Ochoa - Software engineer</h1>
   <img src="https://komarev.com/ghpvc/?username=carlosulisesochoa&style=for-the-badge"/>
 </div>
 
 <br/>
 
-I'm a software engineer with 2+ years of experience in web development. I have background in front-end and back-end development. 
+Hi there!, I'm Carlos, I've over 2 years of experience in web development. I have background in front-end and back-end development. 
   
 I've worked with technologies such as:
 
@@ -55,9 +55,9 @@ I've worked with technologies such as:
 
 <br/>
 
-<h2 align="center">
-  My contribution graph <img src="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/files/images/snake.png" width="30">
-</h2>
+<h2>My contribution graph <img src="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/files/images/snake.png" width="30"></h2>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/output/github-contribution-grid-snake-dark.svg" />
@@ -65,10 +65,12 @@ I've worked with technologies such as:
   <img alt="github-snake" src="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/output/github-contribution-grid-snake.svg.svg"/>
 </picture>
 
-<br/>
+<br/><br/>
 
 ### 🌐 Personal website:
 * [Carlos8a.com](https://carlos8a.com)
+
+<br/>
 
 ### 📫 Contact me:
 * Email: carlos8a.dev@gmail.com
