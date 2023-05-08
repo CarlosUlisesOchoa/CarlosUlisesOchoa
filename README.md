@@ -1,5 +1,8 @@
 <!--
-**CarlosUlisesOchoa/CarlosUlisesOchoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CarlosUlisesOchoa/CarlosUlisesOchoa**
+Title: README.md
+Description: README.md file of CarlosUlisesOchoa GitHub profile
+Author: Carlos Ulises Ochoa Villa
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
 <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"/>
