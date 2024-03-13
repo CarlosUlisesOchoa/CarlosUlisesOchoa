@@ -37,8 +37,8 @@ I've worked with technologies such as:
     <img src="https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<!--     <img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white"/> -->
-<!--     <img src="https://img.shields.io/badge/Laravel-D53E26?style=for-the-badge&logo=laravel&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Laravel-D53E26?style=for-the-badge&logo=laravel&logoColor=white" />
 <!--     <img src="https://img.shields.io/badge/Wordpress-21759F?style=for-the-badge&logo=wordpress&logoColor=white"/> -->
 <!--     <img src="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/files/images/java.jpg" height="28"/> -->
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
@@ -56,18 +56,6 @@ I've worked with technologies such as:
     <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
   </div>
 
-<br/>
-
-<h2>My contribution graph <img src="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/files/images/snake.png" width="30"></h2>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/output/github-contribution-grid-snake.svg.svg" />
-  <img alt="github-snake" src="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/output/github-contribution-grid-snake.svg.svg"/>
-</picture>
-
 <br/><br/>
 
 ### 🌐 Personal website:
@@ -77,7 +65,7 @@ I've worked with technologies such as:
 
 ### 📫 Contact me:
 * Email: carlos8a.dev@gmail.com
-* LinkedIn: [Clic here](https://www.linkedin.com/in/carlosulisesochoa)
+* LinkedIn: [Click here](https://www.linkedin.com/in/carlos8adev)
 
 <!-- This is for get visits (https://yhype.me/dashboard) -->
 ![](https://hit.yhype.me/github/profile?user_id=26280134)
