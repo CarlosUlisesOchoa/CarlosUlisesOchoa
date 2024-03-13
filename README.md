@@ -25,7 +25,7 @@ Social media:
 
 <br/>
 
-Hi there!, I'm Carlos, I've over 3 years of experience in software development. I have background in front-end and back-end development. 
+Hi there!, I'm Carlos, I've over 4 years of professional experience in software development. I have background in front-end and back-end development. 
   
 I've worked with technologies such as:
 
