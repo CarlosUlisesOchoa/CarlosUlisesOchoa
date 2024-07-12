@@ -19,26 +19,26 @@ Social media:
 -->
 
 <div align="center">
-  <h1>Carlos Ochoa - Software engineer</h1>
+  <h1>Carlos Ochoa - Software Engineer</h1>
   <img src="https://komarev.com/ghpvc/?username=carlosulisesochoa&style=for-the-badge"/>
 </div>
 
 <br/>
 
-Hi there!, I'm Carlos, I've over 4 years of professional experience in software development. I have background in front-end and back-end development. 
+Hi there!, I'm Carlos, I have over 4 years of professional experience in software development. I have background in fullstack web development. 
   
-I've worked with technologies such as:
+I have worked with technologies such as:
 
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TailwindCSS-07B0CE?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/TailwindCSS-07B0CE?style=for-the-badge&logo=tailwindcss&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=E8D44D"/>
     <img src="https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Laravel-D53E26?style=for-the-badge&logo=laravel&logoColor=white" />
+<!--     <img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white"/> -->
+<!--     <img src="https://img.shields.io/badge/Laravel-D53E26?style=for-the-badge&logo=laravel&logoColor=white" /> -->
 <!--     <img src="https://img.shields.io/badge/Wordpress-21759F?style=for-the-badge&logo=wordpress&logoColor=white"/> -->
 <!--     <img src="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/files/images/java.jpg" height="28"/> -->
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
@@ -49,16 +49,16 @@ I've worked with technologies such as:
 <!--     <img src="https://img.shields.io/badge/MySQL-004E68?style=for-the-badge&logo=mysql&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/SQL Server-21759F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-E84E31?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+<!--     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> -->
+<!--     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
     <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
-    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
+<!--     <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/> -->
   </div>
 
 <br/><br/>
 
-### 🌐 Personal website:
+### 🌐 My personal web:
 * [Carlos8a.com](https://carlos8a.com)
 
 <br/>
