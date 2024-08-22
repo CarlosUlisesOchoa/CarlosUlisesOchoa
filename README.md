@@ -64,7 +64,7 @@ I have worked with technologies such as:
 <br/>
 
 ### 📫 Contact me:
-* Email: carlos8a.dev@gmail.com
+* Email: hola@carlos8a.com
 * LinkedIn: [Click here](https://www.linkedin.com/in/carlos8adev)
 
 <!-- This is for get visits (https://yhype.me/dashboard) -->
