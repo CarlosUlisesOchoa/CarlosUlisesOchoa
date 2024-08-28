@@ -59,13 +59,14 @@ I have worked with technologies such as:
 <br/><br/>
 
 ### 🌐 My personal web:
-* [Carlos8a.com](https://carlos8a.com)
+* [Carlos8a.com](https://carlos8a.com?ref=gh)
 
 <br/>
 
 ### 📫 Contact me:
-* Email: hola@carlos8a.com
-* LinkedIn: [Click here](https://www.linkedin.com/in/carlos8adev)
+* Email: [hola@carlos8a.com](mailto:hola@carlos8a.com)
+* LinkedIn: [@Carlos8aDev](https://www.linkedin.com/in/carlos8adev)
+* Youtube: [@Carlos8aDev](https://www.youtube.com/@Carlos8aDev)
 
 <!-- This is for get visits (https://yhype.me/dashboard) -->
 ![](https://hit.yhype.me/github/profile?user_id=26280134)
