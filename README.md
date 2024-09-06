@@ -44,15 +44,15 @@ I have worked with technologies such as:
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%23-611D76?style=for-the-badge&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<!--     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <!--     <img src="https://img.shields.io/badge/Supabase-1c1c1c?style=for-the-badge&logo=supabase&logoColor=3ecf8e"/> -->
 <!--     <img src="https://img.shields.io/badge/MySQL-004E68?style=for-the-badge&logo=mysql&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/SQL Server-21759F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-E84E31?style=for-the-badge&logo=git&logoColor=white"/>
 <!--     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> -->
 <!--     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> -->
-    <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
-    <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
+<!--     <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
+<!--     <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
 <!--     <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/> -->
   </div>
 
@@ -66,7 +66,7 @@ I have worked with technologies such as:
 ### 📫 Contact me:
 * Email: [hola@carlos8a.com](mailto:hola@carlos8a.com)
 * LinkedIn: [@Carlos8aDev](https://www.linkedin.com/in/carlos8adev)
-* Youtube: [@Carlos8aDev](https://www.youtube.com/@Carlos8aDev)
+* Bento: [@Carlos8a](https://bento.me/carlos8a)
 
 <!-- This is for get visits (https://yhype.me/dashboard) -->
 ![](https://hit.yhype.me/github/profile?user_id=26280134)
