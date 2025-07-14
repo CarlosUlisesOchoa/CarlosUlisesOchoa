@@ -30,8 +30,8 @@ Hi there!, I'm Carlos, I have over 4 years of professional experience in softwar
 I have worked with technologies such as:
 
 <div>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> -->
+<!--     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> -->
 <!--     <img src="https://img.shields.io/badge/TailwindCSS-07B0CE?style=for-the-badge&logo=tailwindcss&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=E8D44D"/>
     <img src="https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -66,7 +66,6 @@ I have worked with technologies such as:
 ### 📫 Contact me:
 * Email: [hola@carlos8a.com](mailto:hola@carlos8a.com)
 * LinkedIn: [@Carlos8aDev](https://www.linkedin.com/in/carlos8adev)
-* Bento: [@Carlos8a](https://bento.me/carlos8a)
 
 <!-- This is for get visits (https://yhype.me/dashboard) -->
 ![](https://hit.yhype.me/github/profile?user_id=26280134)
