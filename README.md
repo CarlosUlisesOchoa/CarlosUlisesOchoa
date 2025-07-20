@@ -25,7 +25,7 @@ Social media:
 
 <br/>
 
-Hi there!, I'm Carlos, I have over 4 years of professional experience in software development. I have background in fullstack web development. 
+Hi there!, I'm Carlos, I have 5 years of professional experience in software development. I have background in fullstack web development. 
   
 I have worked with technologies such as:
 
@@ -42,8 +42,8 @@ I have worked with technologies such as:
 <!--     <img src="https://img.shields.io/badge/Wordpress-21759F?style=for-the-badge&logo=wordpress&logoColor=white"/> -->
 <!--     <img src="https://github.com/carlosulisesochoa/carlosulisesochoa/raw/files/images/java.jpg" height="28"/> -->
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%23-611D76?style=for-the-badge&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-611D76?style=for-the-badge&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <!--     <img src="https://img.shields.io/badge/Supabase-1c1c1c?style=for-the-badge&logo=supabase&logoColor=3ecf8e"/> -->
 <!--     <img src="https://img.shields.io/badge/MySQL-004E68?style=for-the-badge&logo=mysql&logoColor=white"/> -->
